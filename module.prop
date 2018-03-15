@@ -1,0 +1,7 @@
+id=RuthlessLauncher
+name=Ruthless Pixel Launcher
+version=NewRPL
+versionCode=1
+author=Shubby & Skittles9823
+description=A simple way to install the Ruthless Pixel Launcher, systemlessly.
+minMagisk=1500
